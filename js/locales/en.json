@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "title": "Would You Rather 🤔 - DopaBrain",
+    "description": "Choose between two options and see what others picked!"
+  },
+  "a11y": {
+    "skip": "Skip to content"
+  },
+  "app": {
+    "title": "Would You Rather",
+    "subtitle": "Choose one — see what others picked!",
+    "loading": "Loading...",
+    "or": "OR",
+    "answered": "Answered"
+  },
+  "summary": {
+    "title": "You're Done!",
+    "desc": "You agreed with the majority {pct}% of the time!",
+    "share": "📤 Share",
+    "again": "🔄 Play Again",
+    "questions": "Questions",
+    "majority": "With Majority",
+    "unique": "Unique Choices",
+    "totalAnswered": "Total Answered"
+  },
+  "share": {
+    "title": "Would You Rather",
+    "text": "I agreed with the majority {pct}% of the time in Would You Rather! 🤔\nHow about you?",
+    "copied": "Copied to clipboard!"
+  },
+  "nav": {
+    "back": "DopaBrain Home"
+  },
+  "q1": {
+    "a": "Ability to rewind time",
+    "b": "Ability to see the future",
+    "ea": "⏪",
+    "eb": "🔮"
+  },
+  "q2": {
+    "a": "Live in eternal summer",
+    "b": "Live in eternal winter",
+    "ea": "☀️",
+    "eb": "❄️"
+  },
+  "q3": {
+    "a": "Talk to all animals",
+    "b": "Speak every language fluently",
+    "ea": "🐾",
+    "eb": "🌍"
+  },
+  "q4": {
+    "a": "Ability to fly",
+    "b": "Ability to breathe underwater",
+    "ea": "🦅",
+    "eb": "🐠"
+  },
+  "q5": {
+    "a": "Read minds",
+    "b": "Become invisible",
+    "ea": "🧠",
+    "eb": "👻"
+  },
+  "q6": {
+    "a": "Travel 100 years to the past",
+    "b": "Travel 100 years to the future",
+    "ea": "🏛️",
+    "eb": "🚀"
+  },
+  "q7": {
+    "a": "Never worry about food",
+    "b": "Never need to sleep",
+    "ea": "🍕",
+    "eb": "💤"
+  },
+  "q8": {
+    "a": "Perfect memory",
+    "b": "Incredible creativity",
+    "ea": "📚",
+    "eb": "🎨"
+  },
+  "q9": {
+    "a": "Always tell the truth",
+    "b": "Always detect lies",
+    "ea": "😇",
+    "eb": "🕵️"
+  },
+  "q10": {
+    "a": "Solo space travel",
+    "b": "Live on an island with 100 people",
+    "ea": "🌌",
+    "eb": "🏝️"
+  },
+  "q11": {
+    "a": "Win $1M but become famous",
+    "b": "Stay exactly as you are",
+    "ea": "💰",
+    "eb": "😌"
+  },
+  "q12": {
+    "a": "Undo one past mistake",
+    "b": "Guarantee one future success",
+    "ea": "↩️",
+    "eb": "⭐"
+  },
+  "q13": {
+    "a": "World's best chef",
+    "b": "World's best musician",
+    "ea": "👨‍🍳",
+    "eb": "🎸"
+  },
+  "q14": {
+    "a": "1 always-honest friend",
+    "b": "10 always-fun friends",
+    "ea": "🤝",
+    "eb": "🎉"
+  },
+  "q15": {
+    "a": "Perfect appearance",
+    "b": "IQ of 200",
+    "ea": "💎",
+    "eb": "🧬"
+  },
+  "q16": {
+    "a": "A world without sound",
+    "b": "A world without color",
+    "ea": "🔇",
+    "eb": "⬛"
+  },
+  "q17": {
+    "a": "Teleport anywhere",
+    "b": "Freeze time",
+    "ea": "✨",
+    "eb": "⏸️"
+  },
+  "q18": {
+    "a": "Unlimited stamina",
+    "b": "Unlimited luck",
+    "ea": "💪",
+    "eb": "🍀"
+  },
+  "q19": {
+    "a": "Control your dreams",
+    "b": "Enter other people's dreams",
+    "ea": "🌙",
+    "eb": "💭"
+  },
+  "q20": {
+    "a": "Everything costs half",
+    "b": "Your salary doubles",
+    "ea": "🏷️",
+    "eb": "💵"
+  }
+}

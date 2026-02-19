@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "title": "Was Würdest Du Lieber? 🤔 - DopaBrain",
+    "description": "Wähle zwischen zwei Optionen und sieh, was andere gewählt haben!"
+  },
+  "a11y": {
+    "skip": "Zum Inhalt springen"
+  },
+  "app": {
+    "title": "Was Würdest Du Lieber?",
+    "subtitle": "Wähle eine — sieh was andere gewählt haben!",
+    "loading": "Laden...",
+    "or": "ODER",
+    "answered": "Beantwortet"
+  },
+  "summary": {
+    "title": "Fertig!",
+    "desc": "Du hast {pct}% der Zeit mit der Mehrheit übereingestimmt!",
+    "share": "📤 Teilen",
+    "again": "🔄 Nochmal",
+    "questions": "Fragen",
+    "majority": "Mit Mehrheit",
+    "unique": "Einzigartige Wahl",
+    "totalAnswered": "Gesamt Beantwortet"
+  },
+  "share": {
+    "title": "Was Würdest Du Lieber?",
+    "text": "Ich stimmte {pct}% mit der Mehrheit überein! 🤔\nUnd du?",
+    "copied": "Kopiert!"
+  },
+  "nav": {
+    "back": "DopaBrain Startseite"
+  },
+  "q1": {
+    "a": "Die Zeit zurückspulen",
+    "b": "Die Zukunft sehen",
+    "ea": "⏪",
+    "eb": "🔮"
+  },
+  "q2": {
+    "a": "Ewiger Sommer",
+    "b": "Ewiger Winter",
+    "ea": "☀️",
+    "eb": "❄️"
+  },
+  "q3": {
+    "a": "Mit allen Tieren sprechen",
+    "b": "Alle Sprachen sprechen",
+    "ea": "🐾",
+    "eb": "🌍"
+  },
+  "q4": {
+    "a": "Fliegen können",
+    "b": "Unter Wasser atmen",
+    "ea": "🦅",
+    "eb": "🐠"
+  },
+  "q5": {
+    "a": "Gedanken lesen",
+    "b": "Unsichtbar werden",
+    "ea": "🧠",
+    "eb": "👻"
+  },
+  "q6": {
+    "a": "100 Jahre in die Vergangenheit",
+    "b": "100 Jahre in die Zukunft",
+    "ea": "🏛️",
+    "eb": "🚀"
+  },
+  "q7": {
+    "a": "Nie um Essen sorgen",
+    "b": "Nie schlafen müssen",
+    "ea": "🍕",
+    "eb": "💤"
+  },
+  "q8": {
+    "a": "Perfektes Gedächtnis",
+    "b": "Unglaubliche Kreativität",
+    "ea": "📚",
+    "eb": "🎨"
+  },
+  "q9": {
+    "a": "Immer die Wahrheit sagen",
+    "b": "Lügen immer erkennen",
+    "ea": "😇",
+    "eb": "🕵️"
+  },
+  "q10": {
+    "a": "Allein ins Weltall reisen",
+    "b": "Insel mit 100 Leuten",
+    "ea": "🌌",
+    "eb": "🏝️"
+  },
+  "q11": {
+    "a": "1M€ gewinnen aber berühmt werden",
+    "b": "Bleiben wie du bist",
+    "ea": "💰",
+    "eb": "😌"
+  },
+  "q12": {
+    "a": "Einen Fehler rückgängig machen",
+    "b": "Einen zukünftigen Erfolg garantieren",
+    "ea": "↩️",
+    "eb": "⭐"
+  },
+  "q13": {
+    "a": "Weltbester Koch",
+    "b": "Weltbester Musiker",
+    "ea": "👨‍🍳",
+    "eb": "🎸"
+  },
+  "q14": {
+    "a": "1 immer ehrlicher Freund",
+    "b": "10 immer lustige Freunde",
+    "ea": "🤝",
+    "eb": "🎉"
+  },
+  "q15": {
+    "a": "Perfektes Aussehen",
+    "b": "IQ von 200",
+    "ea": "💎",
+    "eb": "🧬"
+  },
+  "q16": {
+    "a": "Welt ohne Ton",
+    "b": "Welt ohne Farbe",
+    "ea": "🔇",
+    "eb": "⬛"
+  },
+  "q17": {
+    "a": "Sich teleportieren",
+    "b": "Zeit einfrieren",
+    "ea": "✨",
+    "eb": "⏸️"
+  },
+  "q18": {
+    "a": "Unbegrenzte Ausdauer",
+    "b": "Unbegrenztes Glück",
+    "ea": "💪",
+    "eb": "🍀"
+  },
+  "q19": {
+    "a": "Träume kontrollieren",
+    "b": "In fremde Träume eindringen",
+    "ea": "🌙",
+    "eb": "💭"
+  },
+  "q20": {
+    "a": "Alles zum halben Preis",
+    "b": "Doppeltes Gehalt",
+    "ea": "🏷️",
+    "eb": "💵"
+  }
+}

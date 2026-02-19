@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "title": "Kamu Pilih Mana? 🤔 - DopaBrain",
+    "description": "Pilih antara dua opsi dan lihat pilihan orang lain!"
+  },
+  "a11y": {
+    "skip": "Langsung ke konten"
+  },
+  "app": {
+    "title": "Kamu Pilih Mana?",
+    "subtitle": "Pilih satu — lihat pilihan orang lain!",
+    "loading": "Memuat...",
+    "or": "ATAU",
+    "answered": "Dijawab"
+  },
+  "summary": {
+    "title": "Selesai!",
+    "desc": "Kamu setuju dengan mayoritas {pct}% dari waktu!",
+    "share": "📤 Bagikan",
+    "again": "🔄 Main Lagi",
+    "questions": "Pertanyaan",
+    "majority": "Dengan Mayoritas",
+    "unique": "Pilihan Unik",
+    "totalAnswered": "Total Dijawab"
+  },
+  "share": {
+    "title": "Kamu Pilih Mana?",
+    "text": "Aku setuju dengan mayoritas {pct}% di Kamu Pilih Mana! 🤔\nKamu gimana?",
+    "copied": "Tersalin!"
+  },
+  "nav": {
+    "back": "DopaBrain Beranda"
+  },
+  "q1": {
+    "a": "Kemampuan memutar waktu",
+    "b": "Kemampuan melihat masa depan",
+    "ea": "⏪",
+    "eb": "🔮"
+  },
+  "q2": {
+    "a": "Hidup di musim panas selamanya",
+    "b": "Hidup di musim dingin selamanya",
+    "ea": "☀️",
+    "eb": "❄️"
+  },
+  "q3": {
+    "a": "Bicara dengan semua hewan",
+    "b": "Bisa semua bahasa",
+    "ea": "🐾",
+    "eb": "🌍"
+  },
+  "q4": {
+    "a": "Kemampuan terbang",
+    "b": "Bernapas di bawah air",
+    "ea": "🦅",
+    "eb": "🐠"
+  },
+  "q5": {
+    "a": "Membaca pikiran",
+    "b": "Menjadi tak terlihat",
+    "ea": "🧠",
+    "eb": "👻"
+  },
+  "q6": {
+    "a": "Pergi 100 tahun ke masa lalu",
+    "b": "Pergi 100 tahun ke masa depan",
+    "ea": "🏛️",
+    "eb": "🚀"
+  },
+  "q7": {
+    "a": "Tak perlu khawatir makanan",
+    "b": "Tak perlu tidur",
+    "ea": "🍕",
+    "eb": "💤"
+  },
+  "q8": {
+    "a": "Memori sempurna",
+    "b": "Kreativitas luar biasa",
+    "ea": "📚",
+    "eb": "🎨"
+  },
+  "q9": {
+    "a": "Selalu berkata jujur",
+    "b": "Selalu mendeteksi kebohongan",
+    "ea": "😇",
+    "eb": "🕵️"
+  },
+  "q10": {
+    "a": "Perjalanan luar angkasa sendirian",
+    "b": "Pulau dengan 100 orang",
+    "ea": "🌌",
+    "eb": "🏝️"
+  },
+  "q11": {
+    "a": "Menang Rp1M tapi jadi terkenal",
+    "b": "Tetap seperti sekarang",
+    "ea": "💰",
+    "eb": "😌"
+  },
+  "q12": {
+    "a": "Batalkan satu kesalahan masa lalu",
+    "b": "Jamin satu keberhasilan masa depan",
+    "ea": "↩️",
+    "eb": "⭐"
+  },
+  "q13": {
+    "a": "Koki terbaik dunia",
+    "b": "Musisi terbaik dunia",
+    "ea": "👨‍🍳",
+    "eb": "🎸"
+  },
+  "q14": {
+    "a": "1 teman selalu jujur",
+    "b": "10 teman selalu seru",
+    "ea": "🤝",
+    "eb": "🎉"
+  },
+  "q15": {
+    "a": "Penampilan sempurna",
+    "b": "IQ 200",
+    "ea": "💎",
+    "eb": "🧬"
+  },
+  "q16": {
+    "a": "Dunia tanpa suara",
+    "b": "Dunia tanpa warna",
+    "ea": "🔇",
+    "eb": "⬛"
+  },
+  "q17": {
+    "a": "Teleportasi ke mana saja",
+    "b": "Menghentikan waktu",
+    "ea": "✨",
+    "eb": "⏸️"
+  },
+  "q18": {
+    "a": "Stamina tak terbatas",
+    "b": "Keberuntungan tak terbatas",
+    "ea": "💪",
+    "eb": "🍀"
+  },
+  "q19": {
+    "a": "Mengendalikan mimpi sendiri",
+    "b": "Masuk ke mimpi orang lain",
+    "ea": "🌙",
+    "eb": "💭"
+  },
+  "q20": {
+    "a": "Semua setengah harga",
+    "b": "Gaji dua kali lipat",
+    "ea": "🏷️",
+    "eb": "💵"
+  }
+}

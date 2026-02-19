@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "title": "Tu Préfères? 🤔 - DopaBrain",
+    "description": "Choisissez entre deux options et voyez ce que les autres ont choisi !"
+  },
+  "a11y": {
+    "skip": "Aller au contenu"
+  },
+  "app": {
+    "title": "Tu Préfères?",
+    "subtitle": "Choisis — vois ce que les autres ont choisi !",
+    "loading": "Chargement...",
+    "or": "OU",
+    "answered": "Répondu"
+  },
+  "summary": {
+    "title": "Terminé !",
+    "desc": "Tu es d'accord avec la majorité {pct}% du temps !",
+    "share": "📤 Partager",
+    "again": "🔄 Rejouer",
+    "questions": "Questions",
+    "majority": "Avec la Majorité",
+    "unique": "Choix Uniques",
+    "totalAnswered": "Total Répondu"
+  },
+  "share": {
+    "title": "Tu Préfères?",
+    "text": "J'ai été d'accord avec la majorité {pct}% du temps ! 🤔\nEt toi ?",
+    "copied": "Copié !"
+  },
+  "nav": {
+    "back": "DopaBrain Accueil"
+  },
+  "q1": {
+    "a": "Rembobiner le temps",
+    "b": "Voir le futur",
+    "ea": "⏪",
+    "eb": "🔮"
+  },
+  "q2": {
+    "a": "Vivre en été éternel",
+    "b": "Vivre en hiver éternel",
+    "ea": "☀️",
+    "eb": "❄️"
+  },
+  "q3": {
+    "a": "Parler avec tous les animaux",
+    "b": "Parler toutes les langues",
+    "ea": "🐾",
+    "eb": "🌍"
+  },
+  "q4": {
+    "a": "Pouvoir voler",
+    "b": "Respirer sous l'eau",
+    "ea": "🦅",
+    "eb": "🐠"
+  },
+  "q5": {
+    "a": "Lire dans les pensées",
+    "b": "Devenir invisible",
+    "ea": "🧠",
+    "eb": "👻"
+  },
+  "q6": {
+    "a": "Voyager 100 ans dans le passé",
+    "b": "Voyager 100 ans dans le futur",
+    "ea": "🏛️",
+    "eb": "🚀"
+  },
+  "q7": {
+    "a": "Ne jamais se soucier de manger",
+    "b": "Ne jamais avoir besoin de dormir",
+    "ea": "🍕",
+    "eb": "💤"
+  },
+  "q8": {
+    "a": "Mémoire parfaite",
+    "b": "Créativité incroyable",
+    "ea": "📚",
+    "eb": "🎨"
+  },
+  "q9": {
+    "a": "Toujours dire la vérité",
+    "b": "Toujours détecter les mensonges",
+    "ea": "😇",
+    "eb": "🕵️"
+  },
+  "q10": {
+    "a": "Voyage spatial seul",
+    "b": "Île avec 100 personnes",
+    "ea": "🌌",
+    "eb": "🏝️"
+  },
+  "q11": {
+    "a": "Gagner 1M€ mais devenir célèbre",
+    "b": "Rester comme tu es",
+    "ea": "💰",
+    "eb": "😌"
+  },
+  "q12": {
+    "a": "Annuler une erreur passée",
+    "b": "Garantir un succès futur",
+    "ea": "↩️",
+    "eb": "⭐"
+  },
+  "q13": {
+    "a": "Meilleur chef du monde",
+    "b": "Meilleur musicien du monde",
+    "ea": "👨‍🍳",
+    "eb": "🎸"
+  },
+  "q14": {
+    "a": "1 ami toujours honnête",
+    "b": "10 amis toujours amusants",
+    "ea": "🤝",
+    "eb": "🎉"
+  },
+  "q15": {
+    "a": "Apparence parfaite",
+    "b": "QI de 200",
+    "ea": "💎",
+    "eb": "🧬"
+  },
+  "q16": {
+    "a": "Monde sans son",
+    "b": "Monde sans couleur",
+    "ea": "🔇",
+    "eb": "⬛"
+  },
+  "q17": {
+    "a": "Téléportation",
+    "b": "Arrêter le temps",
+    "ea": "✨",
+    "eb": "⏸️"
+  },
+  "q18": {
+    "a": "Énergie illimitée",
+    "b": "Chance illimitée",
+    "ea": "💪",
+    "eb": "🍀"
+  },
+  "q19": {
+    "a": "Contrôler ses rêves",
+    "b": "Entrer dans les rêves des autres",
+    "ea": "🌙",
+    "eb": "💭"
+  },
+  "q20": {
+    "a": "Tout à moitié prix",
+    "b": "Salaire doublé",
+    "ea": "🏷️",
+    "eb": "💵"
+  }
+}

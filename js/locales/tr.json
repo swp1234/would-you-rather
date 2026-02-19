@@ -1,0 +1,154 @@
+{
+  "meta": {
+    "title": "Hangisini Tercih Edersin? 🤔 - DopaBrain",
+    "description": "İki seçenek arasından birini seç ve diğerlerinin ne seçtiğini gör!"
+  },
+  "a11y": {
+    "skip": "İçeriğe geç"
+  },
+  "app": {
+    "title": "Hangisini Tercih Edersin?",
+    "subtitle": "Birini seç — diğerlerinin seçimini gör!",
+    "loading": "Yükleniyor...",
+    "or": "VEYA",
+    "answered": "Cevaplanmış"
+  },
+  "summary": {
+    "title": "Bitti!",
+    "desc": "Zamanın {pct}%'inde çoğunlukla aynı fikirdeydin!",
+    "share": "📤 Paylaş",
+    "again": "🔄 Tekrar Oyna",
+    "questions": "Soru",
+    "majority": "Çoğunlukla Aynı",
+    "unique": "Benzersiz Seçim",
+    "totalAnswered": "Toplam Cevap"
+  },
+  "share": {
+    "title": "Hangisini Tercih Edersin?",
+    "text": "Hangisini Tercih Edersin'de {pct}% çoğunlukla aynı seçimi yaptım! 🤔\nSen ne dersin?",
+    "copied": "Panoya kopyalandı!"
+  },
+  "nav": {
+    "back": "DopaBrain Ana Sayfa"
+  },
+  "q1": {
+    "a": "Zamanı geri sarma yeteneği",
+    "b": "Geleceği görme yeteneği",
+    "ea": "⏪",
+    "eb": "🔮"
+  },
+  "q2": {
+    "a": "Sonsuz yaz dünyası",
+    "b": "Sonsuz kış dünyası",
+    "ea": "☀️",
+    "eb": "❄️"
+  },
+  "q3": {
+    "a": "Tüm hayvanlarla konuşmak",
+    "b": "Her dili bilmek",
+    "ea": "🐾",
+    "eb": "🌍"
+  },
+  "q4": {
+    "a": "Uçma yeteneği",
+    "b": "Su altında nefes alma",
+    "ea": "🦅",
+    "eb": "🐠"
+  },
+  "q5": {
+    "a": "Zihin okuma",
+    "b": "Görünmez olma",
+    "ea": "🧠",
+    "eb": "👻"
+  },
+  "q6": {
+    "a": "100 yıl öncesine gitmek",
+    "b": "100 yıl sonrasına gitmek",
+    "ea": "🏛️",
+    "eb": "🚀"
+  },
+  "q7": {
+    "a": "Asla yemek derdi yok",
+    "b": "Asla uyku ihtiyacı yok",
+    "ea": "🍕",
+    "eb": "💤"
+  },
+  "q8": {
+    "a": "Mükemmel hafıza",
+    "b": "İnanılmaz yaratıcılık",
+    "ea": "📚",
+    "eb": "🎨"
+  },
+  "q9": {
+    "a": "Her zaman doğruyu söylemek",
+    "b": "Her zaman yalanı tespit etmek",
+    "ea": "😇",
+    "eb": "🕵️"
+  },
+  "q10": {
+    "a": "Tek başına uzay yolculuğu",
+    "b": "100 kişiyle ıssız ada",
+    "ea": "🌌",
+    "eb": "🏝️"
+  },
+  "q11": {
+    "a": "1M₺ kazanmak ama ünlü olmak",
+    "b": "Şimdiki gibi kalmak",
+    "ea": "💰",
+    "eb": "😌"
+  },
+  "q12": {
+    "a": "Geçmişteki bir hatayı silmek",
+    "b": "Gelecekteki bir başarıyı garanti",
+    "ea": "↩️",
+    "eb": "⭐"
+  },
+  "q13": {
+    "a": "Dünyanın en iyi şefi",
+    "b": "Dünyanın en iyi müzisyeni",
+    "ea": "👨‍🍳",
+    "eb": "🎸"
+  },
+  "q14": {
+    "a": "1 her zaman dürüst arkadaş",
+    "b": "10 her zaman eğlenceli arkadaş",
+    "ea": "🤝",
+    "eb": "🎉"
+  },
+  "q15": {
+    "a": "Mükemmel görünüm",
+    "b": "200 IQ",
+    "ea": "💎",
+    "eb": "🧬"
+  },
+  "q16": {
+    "a": "Sessiz bir dünya",
+    "b": "Renksiz bir dünya",
+    "ea": "🔇",
+    "eb": "⬛"
+  },
+  "q17": {
+    "a": "Işınlanma",
+    "b": "Zamanı durdurma",
+    "ea": "✨",
+    "eb": "⏸️"
+  },
+  "q18": {
+    "a": "Sınırsız dayanıklılık",
+    "b": "Sınırsız şans",
+    "ea": "💪",
+    "eb": "🍀"
+  },
+  "q19": {
+    "a": "Rüyalarını kontrol etmek",
+    "b": "Başkalarının rüyalarına girmek",
+    "ea": "🌙",
+    "eb": "💭"
+  },
+  "q20": {
+    "a": "Her şey yarı fiyatına",
+    "b": "Maaşın iki katı",
+    "ea": "🏷️",
+    "eb": "💵"
+  }
+}
