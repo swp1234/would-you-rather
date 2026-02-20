@@ -136,7 +136,7 @@ body {
 .choice-btn.disabled { pointer-events: none; opacity: 0.95; }
 
 .choice-emoji { font-size: 28px; }
-.choice-text { font-size: 17px; font-weight: 600; line-height: 1.4; }
+.choice-text { font-size: 17px; font-weight: 600; line-height: 1.4; color: var(--text); -webkit-text-fill-color: var(--text); }
 
 .choice-result { margin-top: 8px; }
 .choice-result.hidden { display: none; }
