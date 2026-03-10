@@ -1,4 +1,4 @@
-const CACHE_NAME = 'would-you-rather-v1';
+const CACHE_NAME = 'would-you-rather-v2';
 const ASSETS = [
   '/would-you-rather/',
   '/would-you-rather/index.html',
