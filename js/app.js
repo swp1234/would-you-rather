@@ -146,13 +146,34 @@ function showSummary() {
 
     // Calculate stats
     let majorityCount = 0;
+    let boldChoices = 0; // choices where picked option had <40%
+    let quickDecisions = 0; // choices where option A was picked (typically the "safe" option)
     answers.forEach(a => {
         const q = questions[a.idx];
         const picked = a.choice === 'a' ? q.pctA : q.pctB;
         if (picked > 50) majorityCount++;
+        if (picked < 40) boldChoices++;
+        if (a.choice === 'a') quickDecisions++;
     });
 
     const majorityPct = Math.round((majorityCount / TOTAL_QUESTIONS) * 100);
+    const boldPct = Math.round((boldChoices / TOTAL_QUESTIONS) * 100);
+
+    // Personality type based on choices
+    let personality, personalityEmoji;
+    if (majorityPct >= 75) {
+        personality = _t('personality.conformist', 'Crowd Follower'); personalityEmoji = '🐑';
+    } else if (majorityPct <= 25) {
+        personality = _t('personality.rebel', 'Bold Rebel'); personalityEmoji = '🦅';
+    } else if (boldPct >= 40) {
+        personality = _t('personality.adventurer', 'Adventurer'); personalityEmoji = '🗺️';
+    } else if (quickDecisions >= 14) {
+        personality = _t('personality.cautious', 'Safe Player'); personalityEmoji = '🛡️';
+    } else if (quickDecisions <= 6) {
+        personality = _t('personality.wildcard', 'Wild Card'); personalityEmoji = '🃏';
+    } else {
+        personality = _t('personality.balanced', 'Balanced Thinker'); personalityEmoji = '⚖️';
+    }
 
     document.getElementById('summary-desc').textContent =
         _t('summary.desc', 'You agreed with the majority {pct}% of the time!')
@@ -160,6 +181,10 @@ function showSummary() {
 
     const statsEl = document.getElementById('summary-stats');
     statsEl.innerHTML = `
+        <div class="stat-item" style="grid-column:1/-1;">
+            <div class="stat-value" style="font-size:2rem;">${personalityEmoji} ${personality}</div>
+            <div class="stat-label">${_t('summary.personality', 'Your Personality')}</div>
+        </div>
         <div class="stat-item">
             <div class="stat-value">${TOTAL_QUESTIONS}</div>
             <div class="stat-label">${_t('summary.questions', 'Questions')}</div>
@@ -189,8 +214,13 @@ document.getElementById('btn-share-summary').addEventListener('click', () => {
     });
     const majorityPct = Math.round((majorityCount / TOTAL_QUESTIONS) * 100);
 
+    // Get personality from summary display
+    const personalityEl = document.querySelector('#summary-stats .stat-value');
+    const personalityText = personalityEl ? personalityEl.textContent : '';
+
     const text = _t('share.text', 'I agreed with the majority {pct}% of the time in Would You Rather! 🤔\nHow about you?')
-        .replace('{pct}', majorityPct);
+        .replace('{pct}', majorityPct)
+        + (personalityText ? `\n${_t('share.type', 'Type')}: ${personalityText}` : '');
     const url = 'https://dopabrain.com/would-you-rather/';
 
     if (navigator.share) {
