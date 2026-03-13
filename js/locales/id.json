@@ -150,5 +150,12 @@
     "b": "Gaji dua kali lipat",
     "ea": "🏷️",
     "eb": "💵"
+  },
+  "related": {
+    "title": "Jelajahi lainnya",
+    "quizApp": "Kuis",
+    "brainrotScore": "Skor Brainrot",
+    "npcTest": "Tes NPC",
+    "rizzScore": "Skor Rizz"
   }
 }

@@ -150,5 +150,12 @@
     "b": "Maaşın iki katı",
     "ea": "🏷️",
     "eb": "💵"
+  },
+  "related": {
+    "title": "Daha fazla keşfet",
+    "quizApp": "Bilgi Yarışması",
+    "brainrotScore": "Brainrot Skoru",
+    "npcTest": "NPC Testi",
+    "rizzScore": "Rizz Skoru"
   }
 }

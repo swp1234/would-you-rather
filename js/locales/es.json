@@ -150,5 +150,12 @@
     "b": "Tu sueldo se duplica",
     "ea": "🏷️",
     "eb": "💵"
+  },
+  "related": {
+    "title": "Explora más",
+    "quizApp": "Quiz",
+    "brainrotScore": "Puntuación Brainrot",
+    "npcTest": "Test NPC",
+    "rizzScore": "Puntuación Rizz"
   }
 }

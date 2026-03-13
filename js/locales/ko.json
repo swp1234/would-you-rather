@@ -150,5 +150,12 @@
     "b": "월급이 두 배",
     "ea": "🏷️",
     "eb": "💵"
+  },
+  "related": {
+    "title": "더 많은 콘텐츠",
+    "quizApp": "상식 퀴즈",
+    "brainrotScore": "브레인롯 점수",
+    "npcTest": "NPC 테스트",
+    "rizzScore": "리즈 점수"
   }
 }

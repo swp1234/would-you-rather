@@ -150,5 +150,12 @@
     "b": "工资翻倍",
     "ea": "🏷️",
     "eb": "💵"
+  },
+  "related": {
+    "title": "探索更多",
+    "quizApp": "知识问答",
+    "brainrotScore": "脑腐指数",
+    "npcTest": "NPC测试",
+    "rizzScore": "魅力指数"
   }
 }

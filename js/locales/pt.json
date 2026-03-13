@@ -150,5 +150,12 @@
     "b": "Salário dobrado",
     "ea": "🏷️",
     "eb": "💵"
+  },
+  "related": {
+    "title": "Explore mais",
+    "quizApp": "Quiz",
+    "brainrotScore": "Pontuação Brainrot",
+    "npcTest": "Teste NPC",
+    "rizzScore": "Pontuação Rizz"
   }
 }
