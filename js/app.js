@@ -1,5 +1,8 @@
 // Would You Rather - Main App
-const _t = (k, fb) => (window.i18n?.t(k) !== k ? window.i18n.t(k) : fb);
+const _t = (k, fb) => {
+    const value = window.i18n?.t?.(k);
+    return value && value !== k ? value : fb;
+};
 
 const gameScreen = document.getElementById('game-screen');
 const summaryScreen = document.getElementById('summary-screen');
