@@ -153,9 +153,8 @@
   },
   "related": {
     "title": "À découvrir",
-    "quizApp": "Quiz",
-    "brainrotScore": "Score Brainrot",
-    "npcTest": "Test NPC",
-    "rizzScore": "Score Rizz"
+    "futureSelf": "Soi Futur",
+    "stressCheck": "Test de Stress",
+    "attachmentStyle": "Style d'Attachement"
   }
 }

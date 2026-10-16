@@ -153,9 +153,8 @@
   },
   "related": {
     "title": "더 많은 콘텐츠",
-    "quizApp": "상식 퀴즈",
-    "brainrotScore": "브레인롯 점수",
-    "npcTest": "NPC 테스트",
-    "rizzScore": "리즈 점수"
+    "futureSelf": "미래 자아",
+    "stressCheck": "스트레스 지수",
+    "attachmentStyle": "애착 유형"
   }
 }

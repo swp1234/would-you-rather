@@ -153,9 +153,8 @@
   },
   "related": {
     "title": "探索更多",
-    "quizApp": "知识问答",
-    "brainrotScore": "脑腐指数",
-    "npcTest": "NPC测试",
-    "rizzScore": "魅力指数"
+    "futureSelf": "未来自画像",
+    "stressCheck": "压力测试",
+    "attachmentStyle": "依恋风格"
   }
 }

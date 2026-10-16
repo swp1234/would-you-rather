@@ -153,9 +153,8 @@
   },
   "related": {
     "title": "Ещё интересное",
-    "quizApp": "Викторина",
-    "brainrotScore": "Брейнрот",
-    "npcTest": "NPC Тест",
-    "rizzScore": "Rizz балл"
+    "futureSelf": "Будущее я",
+    "stressCheck": "Тест на стресс",
+    "attachmentStyle": "Тип привязанности"
   }
 }

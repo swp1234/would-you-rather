@@ -153,9 +153,8 @@
   },
   "related": {
     "title": "More to Explore",
-    "quizApp": "Quiz App",
-    "brainrotScore": "Brainrot Score",
-    "npcTest": "NPC Test",
-    "rizzScore": "Rizz Score"
+    "futureSelf": "Future Self",
+    "stressCheck": "Stress Check",
+    "attachmentStyle": "Attachment Style"
   }
 }
