@@ -156,5 +156,16 @@
     "futureSelf": "Soi Futur",
     "stressCheck": "Test de Stress",
     "attachmentStyle": "Style d'Attachement"
+  },
+  "faq": {
+    "title": "Foire Aux Questions (FAQ)",
+    "q1": "Que révèlent les dilemmes 'Tu préfères' sur la psychologie de la décision ?",
+    "a1": "Ces choix cornéliens mobilisent la théorie du double processus (le Système 1 intuitif et le Système 2 réflexif), mettant en lumière les valeurs non négociables et les priorités profondes de chacun.",
+    "q2": "Pourquoi est-il instructif de comparer son choix aux pourcentages de la communauté ?",
+    "a2": "Cela permet de dépasser l'effet de faux consensus en observant que nos évidences subjectives sont souvent perçues très différemment par autrui.",
+    "q3": "Comment utiliser utilement ces dilemmes en couple ou entre amis ?",
+    "a3": "Ce sont d'excellents brise-glaces pour explorer la tolérance au risque, l'éthique et les préférences personnelles dans un climat bienveillant et sans jugement.",
+    "q4": "Mes réponses sont-elles enregistrées ou partagées ?",
+    "a4": "Non. Toutes vos réponses et votre progression demeurent strictement confinées dans votre navigateur local."
   }
 }

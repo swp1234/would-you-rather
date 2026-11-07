@@ -156,5 +156,16 @@
     "futureSelf": "Future Self",
     "stressCheck": "Stress Check",
     "attachmentStyle": "Attachment Style"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "q1": "What does the 'Would You Rather' dilemma reveal about decision making?",
+    "a1": "Forced-choice trade-offs engage dual-process cognition, contrasting rapid intuitive gut reactions (System 1) with deliberate value-based analysis (System 2). They illuminate personal priorities and non-negotiable boundaries.",
+    "q2": "Why is comparing choices with community percentages psychologically insightful?",
+    "a2": "Normative feedback highlights pluralistic ignorance and the false consensus effect, demonstrating that what feels self-evident to one person is often viewed completely differently by others across diverse backgrounds.",
+    "q3": "How can these dilemma questions be used in relationships or teams?",
+    "a3": "Hypothetical trade-offs serve as low-stakes icebreakers that facilitate meaningful discussions regarding risk tolerance, lifestyle preferences, ethics, and mutual empathy without direct interpersonal conflict.",
+    "q4": "Are my dilemma choices recorded or shared?",
+    "a4": "No. Your question responses and game progress remain entirely client-side in your local browser session. No personal answers or user-identifying profiles are ever stored on external servers."
   }
 }

@@ -156,5 +156,16 @@
     "futureSelf": "Diri Masa Depan",
     "stressCheck": "Tes Stres",
     "attachmentStyle": "Gaya Kelekatan"
+  },
+  "faq": {
+    "title": "Pertanyaan yang Sering Diajukan (FAQ)",
+    "q1": "Apa yang diungkapkan dilema 'Pilih Mana' tentang psikologi pengambilan keputusan?",
+    "a1": "Dilema pilihan paksa memicu kognisi proses ganda (reaksi insting cepat Sistem 1 vs analisis nilai Sistem 2), menyingkap prioritas hidup dan batasan yang tak dapat dikompromikan.",
+    "q2": "Mengapa membandingkan pilihan dengan persentase komunitas sangat bermanfaat?",
+    "a2": "Hal ini menyadarkan kita akan efek konsensus palsu (false consensus effect) dan memperluas empati dengan menyadari keberagaman sudut pandang orang lain.",
+    "q3": "Bagaimana cara memanfaatkan pertanyaan ini dalam hubungan atau kerja tim?",
+    "a3": "Pertanyaan ini dapat menjadi pemecah suasana (icebreaker) yang ramah untuk mendiskusikan toleransi risiko dan nilai moral tanpa konfrontasi langsung.",
+    "q4": "Apakah jawaban dilema saya direkam atau dikirim ke server?",
+    "a4": "Tidak. Seluruh interaksi dan perkembangan permainan hanya berjalan di dalam peramban lokal Anda."
   }
 }

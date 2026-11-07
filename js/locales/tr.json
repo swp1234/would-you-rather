@@ -156,5 +156,16 @@
     "futureSelf": "Gelecekteki Ben",
     "stressCheck": "Stres Testi",
     "attachmentStyle": "Bağlanma Stili"
+  },
+  "faq": {
+    "title": "Sıkça Sorulan Sorular (FAQ)",
+    "q1": "'Hangisini Tercih Edersin' ikilemleri karar alma psikolojimiz hakkında ne söyler?",
+    "a1": "Zorunlu seçim ikilemleri, sezgisel Sistem 1 ile analitik Sistem 2 arasındaki bilişsel süreci harekete geçirerek bireyin pazarlık edilemez temel değerlerini görünür kılar.",
+    "q2": "Seçimleri topluluk yüzdeleriyle karşılaştırmak neden aydınlatıcıdır?",
+    "a2": "Kişinin kendi düşüncesini çoğunluğun fikri sanma yanılgısını (yanlış uzlaşı etkisi) fark etmesini sağlar ve farklı bakış açılarına duyulan empatiyi artırır.",
+    "q3": "Bu ikilem soruları arkadaşlık ve ilişkilerde nasıl yapıcı şekilde kullanılabilir?",
+    "a3": "Yargılama ve sürtüşme olmadan risk toleransı, yaşam tarzı ve etik tercihler üzerine samimi sohbetler başlatmak için harika bir tanışma ve yakınlaşma aracıdır.",
+    "q4": "Verdiğim cevaplar veya oyun geçmişim sunucuda saklanıyor mu?",
+    "a4": "Hayır. Bütün seçimleriniz ve oyun akışınız sadece yerel tarayıcınızda işlenir; hiçbir kişisel veri dışarıya aktarılmaz."
   }
 }

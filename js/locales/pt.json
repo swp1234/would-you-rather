@@ -156,5 +156,16 @@
     "futureSelf": "Eu Futuro",
     "stressCheck": "Teste de Estresse",
     "attachmentStyle": "Estilo de Apego"
+  },
+  "faq": {
+    "title": "Perguntas Frequentes (FAQ)",
+    "q1": "O que o dilema 'Você Prefere' revela sobre a tomada de decisões?",
+    "a1": "As escolhas forçadas estimulam a cognição de processo dual (o Sistema 1 intuitivo vs o Sistema 2 deliberativo), revelando valores essenciais e limites pessoais inegociáveis.",
+    "q2": "Qual a relevância de comparar respostas com as porcentagens da comunidade?",
+    "a2": "Ajuda a neutralizar o efeito de falso consenso, evidenciando como pessoas de diferentes origens ponderam perdas e ganhos sob prismas totalmente diversos.",
+    "q3": "Como aplicar essas perguntas para fortalecer laços interpessoais?",
+    "a3": "Funcionam como dinâmicas leves de quebra-gelo para debater estilo de vida, ética e prioridades emocionais de forma descontraída e construtiva.",
+    "q4": "Minhas preferências são registradas em servidores externos?",
+    "a4": "Não. Todas as seleções e dados da partida permanecem estritamente restritos ao navegador do usuário."
   }
 }

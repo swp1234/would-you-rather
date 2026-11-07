@@ -156,5 +156,16 @@
     "futureSelf": "Zukunfts-Ich",
     "stressCheck": "Stress-Test",
     "attachmentStyle": "Bindungsstil"
+  },
+  "faq": {
+    "title": "Häufig gestellte Fragen (FAQ)",
+    "q1": "Was verraten 'Würdest du eher'-Dilemmata über unsere Entscheidungspsychologie?",
+    "a1": "Erzwungene Entweder-Oder-Entscheidungen aktivieren die Zwei-Prozess-Theorie (schnelles Bauchgefühl System 1 vs. rationales Abwägen System 2) und machen unbewusste Kernwerte sichtbar.",
+    "q2": "Welche psychologische Funktion hat der Vergleich mit Community-Prozentwerten?",
+    "a2": "Er deckt den 'False-Consensus-Effekt' auf und schult die soziale Perspektivenübernahme, indem er zeigt, dass andere Menschen ganz andere Prioritäten als selbstverständlich erachten.",
+    "q3": "Wie können diese Fragen in Teams oder Partnerschaften genutzt werden?",
+    "a3": "Sie eignen sich hervorragend als lockere Eisbrecher, um über Risikofreude, Werte und Lebensstile ins Gespräch zu kommen, ohne Konflikte auszulösen.",
+    "q4": "Werden meine gewählten Antworten auf externen Servern gespeichert?",
+    "a4": "Nein. Alle Eingaben und Spielfortschritte bleiben ausschließlich in Ihrer lokalen Browsersitzung gespeichert."
   }
 }

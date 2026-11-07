@@ -156,5 +156,16 @@
     "futureSelf": "Yo Futuro",
     "stressCheck": "Test de Estrés",
     "attachmentStyle": "Estilo de Apego"
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes (FAQ)",
+    "q1": "¿Qué revela el dilema '¿Qué preferirías?' sobre la psicología de las decisiones?",
+    "a1": "Los dilemas de elección forzada activan la cognición de proceso dual (la intuición rápida del Sistema 1 frente al análisis deliberado del Sistema 2), revelando prioridades personales y límites no negociables.",
+    "q2": "¿Por qué es enriquecedor comparar elecciones con los porcentajes de la comunidad?",
+    "a2": "Ayuda a mitigar el efecto de falso consenso, demostrando que lo que parece obvio para uno suele verse de forma radicalmente distinta por personas con diversas perspectivas.",
+    "q3": "¿Cómo pueden usarse estas preguntas en relaciones o dinámicas de grupo?",
+    "a3": "Sirven como rompehielos lúdicos que facilitan el diálogo honesto sobre tolerancia al riesgo, hábitos de vida y valores morales sin generar confrontación directa.",
+    "q4": "¿Se guardan o transmiten mis respuestas a servidores externos?",
+    "a4": "No. Todas las respuestas y estadísticas se gestionan estrictamente dentro de la sesión local de su navegador, con absoluta confidencialidad."
   }
 }
