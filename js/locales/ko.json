@@ -21,7 +21,10 @@
     "questions": "질문",
     "majority": "다수와 일치",
     "unique": "독특한 선택",
-    "totalAnswered": "총 답변"
+    "totalAnswered": "총 답변",
+    "saveCard": "성향 카드 저장",
+    "saved": "카드 저장됨!",
+    "saveFailed": "카드 저장에 실패했습니다."
   },
   "share": {
     "title": "이것 아니면 저것",
@@ -155,7 +158,8 @@
     "title": "더 많은 콘텐츠",
     "futureSelf": "미래 자아",
     "stressCheck": "스트레스 지수",
-    "attachmentStyle": "애착 유형"
+    "attachmentStyle": "애착 유형",
+    "ickFactor": "정떨어짐 지수"
   },
   "faq": {
     "title": "자주 묻는 질문 (FAQ)",
@@ -167,5 +171,15 @@
     "a3": "부담 없는 아이스브레이킹 대화 주제로 활용하여 위험 감수 성향, 생활 습관, 가치 우선순위 등을 갈등 없이 깊이 있게 이해하는 대화의 창구로 활용할 수 있습니다.",
     "q4": "내가 선택한 답변이나 게임 기록이 서버에 저장되나요?",
     "a4": "전혀 저장되지 않습니다. 모든 질문 응답과 진행 상황은 사용자의 로컬 브라우저 내부에서만 처리되며, 개인 식별 데이터는 외부 서버로 전송되지 않습니다."
+  },
+  "curated": {
+    "title": "추천 의사결정 심리학 도서",
+    "disclosure": "제휴 링크 포함",
+    "subtitle": "직관적 선택(시스템 1)과 숙고(시스템 2), 다수결 편향의 심리를 깊이 탐구해보세요.",
+    "cta": "도서 보기 ->",
+    "thinkingTitle": "생각에 관한 생각 (Thinking, Fast and Slow)",
+    "thinkingDesc": "대니얼 카너먼 — 순간 직관과 이성적 비교가 선택을 가르는 결정적 원리를 탐구합니다.",
+    "irrationalTitle": "상식 밖의 경제학 (Predictably Irrational)",
+    "irrationalDesc": "댄 애리얼리 — 양자택일과 비교 프레임이 우리의 판단을 어떻게 이끄는지 보여줍니다."
   }
 }

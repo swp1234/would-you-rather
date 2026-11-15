@@ -21,7 +21,10 @@
     "questions": "Pertanyaan",
     "majority": "Dengan Mayoritas",
     "unique": "Pilihan Unik",
-    "totalAnswered": "Total Dijawab"
+    "totalAnswered": "Total Dijawab",
+    "saveCard": "Simpan Kartu Profil",
+    "saved": "Kartu Tersimpan!",
+    "saveFailed": "Gagal menyimpan kartu."
   },
   "share": {
     "title": "Kamu Pilih Mana?",
@@ -155,7 +158,8 @@
     "title": "Jelajahi lainnya",
     "futureSelf": "Diri Masa Depan",
     "stressCheck": "Tes Stres",
-    "attachmentStyle": "Gaya Kelekatan"
+    "attachmentStyle": "Gaya Kelekatan",
+    "ickFactor": "Faktor Ick"
   },
   "faq": {
     "title": "Pertanyaan yang Sering Diajukan (FAQ)",
@@ -167,5 +171,15 @@
     "a3": "Pertanyaan ini dapat menjadi pemecah suasana (icebreaker) yang ramah untuk mendiskusikan toleransi risiko dan nilai moral tanpa konfrontasi langsung.",
     "q4": "Apakah jawaban dilema saya direkam atau dikirim ke server?",
     "a4": "Tidak. Seluruh interaksi dan perkembangan permainan hanya berjalan di dalam peramban lokal Anda."
+  },
+  "curated": {
+    "title": "Buku Psikologi Keputusan Pilihan",
+    "disclosure": "Tautan afiliasi",
+    "subtitle": "Pahami intuisi cepat, dilema nilai, dan pengaruh norma mayoritas dalam pilihan hidup.",
+    "cta": "Lihat Buku ->",
+    "thinkingTitle": "Thinking, Fast and Slow — Daniel Kahneman",
+    "thinkingDesc": "Mengupas pertarungan antara naluri cepat Sistem 1 dan analisis logis Sistem 2.",
+    "irrationalTitle": "Predictably Irrational — Dan Ariely",
+    "irrationalDesc": "Mengapa perbandingan dua opsi sering memengaruhi keputusan sehari-hari."
   }
 }

@@ -21,7 +21,10 @@
     "questions": "Perguntas",
     "majority": "Com a Maioria",
     "unique": "Escolhas Únicas",
-    "totalAnswered": "Total Respondido"
+    "totalAnswered": "Total Respondido",
+    "saveCard": "Salvar Cartão",
+    "saved": "Cartão Salvo!",
+    "saveFailed": "Não foi possível salvar."
   },
   "share": {
     "title": "O Que Você Prefere?",
@@ -155,7 +158,8 @@
     "title": "Explore mais",
     "futureSelf": "Eu Futuro",
     "stressCheck": "Teste de Estresse",
-    "attachmentStyle": "Estilo de Apego"
+    "attachmentStyle": "Estilo de Apego",
+    "ickFactor": "Fator Rancho"
   },
   "faq": {
     "title": "Perguntas Frequentes (FAQ)",
@@ -167,5 +171,15 @@
     "a3": "Funcionam como dinâmicas leves de quebra-gelo para debater estilo de vida, ética e prioridades emocionais de forma descontraída e construtiva.",
     "q4": "Minhas preferências são registradas em servidores externos?",
     "a4": "Não. Todas as seleções e dados da partida permanecem estritamente restritos ao navegador do usuário."
+  },
+  "curated": {
+    "title": "Livros de Psicologia da Decisão",
+    "disclosure": "Links de afiliado",
+    "subtitle": "Entenda instintos imediatos, trocas difíceis e a influência das normas sociais.",
+    "cta": "Ver Livro ->",
+    "thinkingTitle": "Rápido e Devagar — Daniel Kahneman",
+    "thinkingDesc": "Como o Sistema 1 intuitivo e o Sistema 2 analítico guiam suas escolhas.",
+    "irrationalTitle": "Previsivelmente Irracional — Dan Ariely",
+    "irrationalDesc": "Por que comparações binárias e contextos mudam o que valorizamos."
   }
 }

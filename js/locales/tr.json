@@ -21,7 +21,10 @@
     "questions": "Soru",
     "majority": "Çoğunlukla Aynı",
     "unique": "Benzersiz Seçim",
-    "totalAnswered": "Toplam Cevap"
+    "totalAnswered": "Toplam Cevap",
+    "saveCard": "Sonuç Kartını Kaydet",
+    "saved": "Kart Kaydedildi!",
+    "saveFailed": "Kart kaydedilemedi."
   },
   "share": {
     "title": "Hangisini Tercih Edersin?",
@@ -155,7 +158,8 @@
     "title": "Daha fazla keşfet",
     "futureSelf": "Gelecekteki Ben",
     "stressCheck": "Stres Testi",
-    "attachmentStyle": "Bağlanma Stili"
+    "attachmentStyle": "Bağlanma Stili",
+    "ickFactor": "Soğuma Faktörü"
   },
   "faq": {
     "title": "Sıkça Sorulan Sorular (FAQ)",
@@ -167,5 +171,15 @@
     "a3": "Yargılama ve sürtüşme olmadan risk toleransı, yaşam tarzı ve etik tercihler üzerine samimi sohbetler başlatmak için harika bir tanışma ve yakınlaşma aracıdır.",
     "q4": "Verdiğim cevaplar veya oyun geçmişim sunucuda saklanıyor mu?",
     "a4": "Hayır. Bütün seçimleriniz ve oyun akışınız sadece yerel tarayıcınızda işlenir; hiçbir kişisel veri dışarıya aktarılmaz."
+  },
+  "curated": {
+    "title": "Önerilen Karar Psikolojisi Kitapları",
+    "disclosure": "İş ortaklığı bağlantıları",
+    "subtitle": "Sezgisel tepkiler, değer çatışmaları ve çoğunluk algısı üzerine temel kaynaklar.",
+    "cta": "İncele ->",
+    "thinkingTitle": "Hızlı ve Yavaş Düşünme — Daniel Kahneman",
+    "thinkingDesc": "Zihnimizin hızlı sezgisel ve yavaş analitik sistemlerinin ikilemlerdeki rolü.",
+    "irrationalTitle": "Akıldışı Ama Öngörülebilir — Dan Ariely",
+    "irrationalDesc": "Zorunlu karşılaştırmaların günlük tercihlerimizi nasıl yönlendirdiğini keşfedin."
   }
 }

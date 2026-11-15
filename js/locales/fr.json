@@ -21,7 +21,10 @@
     "questions": "Questions",
     "majority": "Avec la Majorité",
     "unique": "Choix Uniques",
-    "totalAnswered": "Total Répondu"
+    "totalAnswered": "Total Répondu",
+    "saveCard": "Enregistrer la Carte",
+    "saved": "Carte Enregistrée !",
+    "saveFailed": "Échec de la sauvegarde."
   },
   "share": {
     "title": "Tu Préfères?",
@@ -155,7 +158,8 @@
     "title": "À découvrir",
     "futureSelf": "Soi Futur",
     "stressCheck": "Test de Stress",
-    "attachmentStyle": "Style d'Attachement"
+    "attachmentStyle": "Style d'Attachement",
+    "ickFactor": "Facteur Ick"
   },
   "faq": {
     "title": "Foire Aux Questions (FAQ)",
@@ -167,5 +171,15 @@
     "a3": "Ce sont d'excellents brise-glaces pour explorer la tolérance au risque, l'éthique et les préférences personnelles dans un climat bienveillant et sans jugement.",
     "q4": "Mes réponses sont-elles enregistrées ou partagées ?",
     "a4": "Non. Toutes vos réponses et votre progression demeurent strictement confinées dans votre navigateur local."
+  },
+  "curated": {
+    "title": "Livres sur la Psychologie du Choix",
+    "disclosure": "Liens affiliés",
+    "subtitle": "Explorez l’intuition, les arbitrages de valeurs et les biais de consensus social.",
+    "cta": "Voir le Livre ->",
+    "thinkingTitle": "Système 1 / Système 2 — Daniel Kahneman",
+    "thinkingDesc": "Comment nos deux vitesses de pensée arbitrent chaque dilemme complexe.",
+    "irrationalTitle": "C’est (vraiment ?) moi qui décide — Dan Ariely",
+    "irrationalDesc": "Pourquoi les comparaisons binaires révèlent nos priorités cachées."
   }
 }

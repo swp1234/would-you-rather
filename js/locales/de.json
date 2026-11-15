@@ -21,7 +21,10 @@
     "questions": "Fragen",
     "majority": "Mit Mehrheit",
     "unique": "Einzigartige Wahl",
-    "totalAnswered": "Gesamt Beantwortet"
+    "totalAnswered": "Gesamt Beantwortet",
+    "saveCard": "Ergebniskarte Speichern",
+    "saved": "Karte Gespeichert!",
+    "saveFailed": "Speichern fehlgeschlagen."
   },
   "share": {
     "title": "Was Würdest Du Lieber?",
@@ -155,7 +158,8 @@
     "title": "Mehr entdecken",
     "futureSelf": "Zukunfts-Ich",
     "stressCheck": "Stress-Test",
-    "attachmentStyle": "Bindungsstil"
+    "attachmentStyle": "Bindungsstil",
+    "ickFactor": "Ick-Faktor"
   },
   "faq": {
     "title": "Häufig gestellte Fragen (FAQ)",
@@ -167,5 +171,15 @@
     "a3": "Sie eignen sich hervorragend als lockere Eisbrecher, um über Risikofreude, Werte und Lebensstile ins Gespräch zu kommen, ohne Konflikte auszulösen.",
     "q4": "Werden meine gewählten Antworten auf externen Servern gespeichert?",
     "a4": "Nein. Alle Eingaben und Spielfortschritte bleiben ausschließlich in Ihrer lokalen Browsersitzung gespeichert."
+  },
+  "curated": {
+    "title": "Bücher zur Entscheidungspsychologie",
+    "disclosure": "Affiliate-Links",
+    "subtitle": "Verstehen Sie Bauchentscheidungen, Werteabwägungen und soziale Mehrheits-Effekte.",
+    "cta": "Ansehen ->",
+    "thinkingTitle": "Schnelles Denken, langsames Denken — Daniel Kahneman",
+    "thinkingDesc": "Wie System 1 und System 2 unter schwierigen Zielkonflikten zusammenwirken.",
+    "irrationalTitle": "Denken hilft zwar, nützt aber nichts — Dan Ariely",
+    "irrationalDesc": "Warum direkte Gegenüberstellungen unsere Intuition lenken."
   }
 }

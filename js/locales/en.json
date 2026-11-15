@@ -21,7 +21,10 @@
     "questions": "Questions",
     "majority": "With Majority",
     "unique": "Unique Choices",
-    "totalAnswered": "Total Answered"
+    "totalAnswered": "Total Answered",
+    "saveCard": "Save Profile Card",
+    "saved": "Card Saved!",
+    "saveFailed": "Could not save card."
   },
   "share": {
     "title": "Would You Rather",
@@ -155,7 +158,8 @@
     "title": "More to Explore",
     "futureSelf": "Future Self",
     "stressCheck": "Stress Check",
-    "attachmentStyle": "Attachment Style"
+    "attachmentStyle": "Attachment Style",
+    "ickFactor": "Ick Factor"
   },
   "faq": {
     "title": "Frequently Asked Questions",
@@ -167,5 +171,15 @@
     "a3": "Hypothetical trade-offs serve as low-stakes icebreakers that facilitate meaningful discussions regarding risk tolerance, lifestyle preferences, ethics, and mutual empathy without direct interpersonal conflict.",
     "q4": "Are my dilemma choices recorded or shared?",
     "a4": "No. Your question responses and game progress remain entirely client-side in your local browser session. No personal answers or user-identifying profiles are ever stored on external servers."
+  },
+  "curated": {
+    "title": "Recommended Decision Psychology Books",
+    "disclosure": "Affiliate links",
+    "subtitle": "Understand cognitive trade-offs, gut instincts, and how social norms shape everyday choices.",
+    "cta": "View Book ->",
+    "thinkingTitle": "Thinking, Fast and Slow — Daniel Kahneman",
+    "thinkingDesc": "Nobel laureate guide to System 1 snap instincts vs. deliberate System 2 trade-offs.",
+    "irrationalTitle": "Predictably Irrational — Dan Ariely",
+    "irrationalDesc": "Why forced comparisons and hidden defaults bend our everyday decisions."
   }
 }

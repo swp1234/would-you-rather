@@ -21,7 +21,10 @@
     "questions": "Preguntas",
     "majority": "Con la Mayoría",
     "unique": "Elecciones Únicas",
-    "totalAnswered": "Total Respondidas"
+    "totalAnswered": "Total Respondidas",
+    "saveCard": "Guardar Tarjeta",
+    "saved": "Tarjeta Guardada",
+    "saveFailed": "No se pudo guardar."
   },
   "share": {
     "title": "¿Qué Preferirías?",
@@ -155,7 +158,8 @@
     "title": "Explora más",
     "futureSelf": "Yo Futuro",
     "stressCheck": "Test de Estrés",
-    "attachmentStyle": "Estilo de Apego"
+    "attachmentStyle": "Estilo de Apego",
+    "ickFactor": "Factor Ick"
   },
   "faq": {
     "title": "Preguntas Frecuentes (FAQ)",
@@ -167,5 +171,15 @@
     "a3": "Sirven como rompehielos lúdicos que facilitan el diálogo honesto sobre tolerancia al riesgo, hábitos de vida y valores morales sin generar confrontación directa.",
     "q4": "¿Se guardan o transmiten mis respuestas a servidores externos?",
     "a4": "No. Todas las respuestas y estadísticas se gestionan estrictamente dentro de la sesión local de su navegador, con absoluta confidencialidad."
+  },
+  "curated": {
+    "title": "Libros de Psicología de la Decisión",
+    "disclosure": "Enlaces de afiliado",
+    "subtitle": "Explora los sesgos cognitivos, el instinto y el efecto de consenso en tus elecciones.",
+    "cta": "Ver Libro ->",
+    "thinkingTitle": "Pensar rápido, pensar despacio — Daniel Kahneman",
+    "thinkingDesc": "Cómo el Sistema 1 intuitivo y el Sistema 2 deliberativo moldean cada dilema.",
+    "irrationalTitle": "Las trampas del deseo — Dan Ariely",
+    "irrationalDesc": "Por qué las comparaciones forzadas alteran nuestras preferencias."
   }
 }
