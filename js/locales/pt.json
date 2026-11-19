@@ -181,5 +181,11 @@
     "thinkingDesc": "Como o Sistema 1 intuitivo e o Sistema 2 analítico guiam suas escolhas.",
     "irrationalTitle": "Previsivelmente Irracional — Dan Ariely",
     "irrationalDesc": "Por que comparações binárias e contextos mudam o que valorizamos."
+  },
+  "nextStep": {
+    "label": "Próximo passo recomendado",
+    "title": "Arquétipo do Eu Futuro",
+    "desc": "Transforme sua reflexão de hoje em um mapa de prioridades para 10 anos em 8 perguntas.",
+    "cta": "Explorar Eu Futuro →"
   }
 }

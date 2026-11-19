@@ -181,5 +181,11 @@
     "thinkingDesc": "Cómo el Sistema 1 intuitivo y el Sistema 2 deliberativo moldean cada dilema.",
     "irrationalTitle": "Las trampas del deseo — Dan Ariely",
     "irrationalDesc": "Por qué las comparaciones forzadas alteran nuestras preferencias."
+  },
+  "nextStep": {
+    "label": "Siguiente paso recomendado",
+    "title": "Arquetipo de tu Yo Futuro",
+    "desc": "Convierte tu reflexión de hoy en un mapa de prioridades a 10 años en 8 preguntas.",
+    "cta": "Explorar Yo Futuro →"
   }
 }

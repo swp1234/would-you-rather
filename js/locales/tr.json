@@ -181,5 +181,11 @@
     "thinkingDesc": "Zihnimizin hızlı sezgisel ve yavaş analitik sistemlerinin ikilemlerdeki rolü.",
     "irrationalTitle": "Akıldışı Ama Öngörülebilir — Dan Ariely",
     "irrationalDesc": "Zorunlu karşılaştırmaların günlük tercihlerimizi nasıl yönlendirdiğini keşfedin."
+  },
+  "nextStep": {
+    "label": "Önerilen Sonraki Adım",
+    "title": "10 Yıllık Gelecekteki Ben",
+    "desc": "Bugünkü farkındalığını 8 soruda 10 yıllık öncelik haritasına dönüştür.",
+    "cta": "Gelecekteki Ben’i Keşfet →"
   }
 }

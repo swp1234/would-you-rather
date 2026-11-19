@@ -181,5 +181,11 @@
     "thinkingDesc": "Mengupas pertarungan antara naluri cepat Sistem 1 dan analisis logis Sistem 2.",
     "irrationalTitle": "Predictably Irrational — Dan Ariely",
     "irrationalDesc": "Mengapa perbandingan dua opsi sering memengaruhi keputusan sehari-hari."
+  },
+  "nextStep": {
+    "label": "Langkah Berikutnya",
+    "title": "Arketipe Diri Masa Depan",
+    "desc": "Ubah refleksi hari ini menjadi peta prioritas 10 tahun dalam 8 pertanyaan.",
+    "cta": "Jelajahi Diri Masa Depan →"
   }
 }

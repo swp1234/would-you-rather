@@ -181,5 +181,11 @@
     "thinkingDesc": "Comment nos deux vitesses de pensée arbitrent chaque dilemme complexe.",
     "irrationalTitle": "C’est (vraiment ?) moi qui décide — Dan Ariely",
     "irrationalDesc": "Pourquoi les comparaisons binaires révèlent nos priorités cachées."
+  },
+  "nextStep": {
+    "label": "Prochaine étape recommandée",
+    "title": "Archétype du Moi Futur (10 ans)",
+    "desc": "Reliez votre réflexion du jour à vos priorités sur 10 ans en 8 questions.",
+    "cta": "Explorer mon Moi Futur →"
   }
 }

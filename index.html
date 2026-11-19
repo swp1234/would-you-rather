@@ -155,6 +155,9 @@
     <script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-J8GSWM40TV');</script>
 <link rel="stylesheet" href="css/style.css">
     <script src="js/i18n.js"></script>
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin>
+    <link rel="dns-prefetch" href="https://googleads.g.doubleclick.net">
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
 </head>
 <body>
     <a href="#game-screen" class="skip-link" data-i18n="a11y.skip">Skip to content</a>
@@ -269,7 +272,19 @@
                 <button id="btn-play-again" class="btn-action btn-retry" data-i18n="summary.again">🔄 Play Again</button>
             </div>
             <canvas id="share-canvas" width="1080" height="1920" style="display:none;" aria-hidden="true"></canvas>
-            <div id="curated-resources-card" class="curated-resources"></div>
+                    <section class="next-step-card" id="nextStepCard" aria-label="10-Year Future Self Archetype">
+            <p class="next-step-label" data-i18n="nextStep.label">Recommended Next Step</p>
+            <div class="next-step-main">
+                <span class="next-step-emoji" aria-hidden="true">🔮</span>
+                <div class="next-step-content">
+                    <h4 class="next-step-title" data-i18n="nextStep.title">10-Year Future Self Archetype</h4>
+                    <p class="next-step-desc" data-i18n="nextStep.desc">Turn today’s reflection into a 10-year roadmap of priorities and energy direction in 8 questions.</p>
+                </div>
+            </div>
+            <a href="/future-self/?lang=en&amp;start=1&amp;source=would_you_rather_result" class="next-step-cta" id="nextStepCta" data-i18n="nextStep.cta">Explore Future Self →</a>
+        </section>
+
+<div id="curated-resources-card" class="curated-resources"></div>
         </div>
     </div>
 
@@ -292,5 +307,35 @@
     </div>
     <script src="/portal/js/cross-promo.js" defer></script>
   <script>if("serviceWorker"in navigator){navigator.serviceWorker.register("sw.js").catch(()=>{});}</script>
+
+    <script>
+      (function () {
+        var cta = document.getElementById('nextStepCta');
+        if (!cta) return;
+        function syncHref() {
+          var lang = (window.i18n && (window.i18n.currentLang || (typeof window.i18n.getCurrentLanguage === 'function' && window.i18n.getCurrentLanguage())))
+            || new URLSearchParams(window.location.search).get('lang')
+            || document.documentElement.lang
+            || 'en';
+          try {
+            var u = new URL(cta.getAttribute('href'), window.location.origin);
+            u.searchParams.set('lang', lang);
+            u.searchParams.set('source', 'would_you_rather_result');
+            cta.setAttribute('href', u.pathname + u.search);
+          } catch (e) {}
+        }
+        syncHref();
+        cta.addEventListener('click', function () {
+          syncHref();
+          if (typeof gtag === 'function') {
+            gtag('event', 'content_cta_click', {
+              cta_surface: 'next_step_hero',
+              destination: cta.getAttribute('href'),
+              source: 'would_you_rather_result'
+            });
+          }
+        });
+      })();
+    </script>
 </body>
 </html>
